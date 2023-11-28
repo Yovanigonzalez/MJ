@@ -1,0 +1,419 @@
+.main {
+    width: 97%;
+    max-width: 1440px;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1rem auto;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.main h1 {
+    width: 90%;
+    color: #333;
+    font-weight: 500;
+    text-align: center;
+    margin: 1rem auto 1.5rem;
+}
+
+
+/* PRODUCTOS */
+.main .list-products {
+    width: 65%;
+    height: 58rem;
+    margin-bottom: 5rem;
+    max-height: 58rem;
+    overflow-y: auto;
+}
+
+.main .list-products::-webkit-scrollbar {
+    width: 12px;
+    /* Tamaño del scroll en vertical */
+    /* Tamaño del scroll en horizontal */
+
+}
+
+.main .list-products::-webkit-scrollbar-thumb {
+    background: #03C4EB;
+    border-radius: 4px;
+}
+
+.container::-webkit-scrollbar-thumb:hover {
+    background: #03C4EB;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Cambiamos el fondo cuando esté en active */
+.container::-webkit-scrollbar-thumb:active {
+    background-color: #03C4EB;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.list-products h2 {
+    color: #03C4EB;
+    font-weight: 500;
+    text-align: center;
+    margin: 1rem auto 1.5rem;
+}
+
+.list-products .containt-produts {
+    width: 95%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    column-gap: 10px;
+    row-gap: 15px;
+    margin: 1rem 2.5%;
+    justify-content: space-evenly;
+}
+
+.containt-produts .card {
+    height: 24rem;
+    margin: .3rem;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-bottom: 1rem;
+    transition: .3s;
+}
+
+.containt-produts .add-product {
+    height: 24rem;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #03C4EB;
+    transition: .3s;
+}
+
+.containt-produts .add-product:hover {
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5);
+}
+
+
+
+
+.add-product img {
+    cursor: pointer;
+    transition: .3s;
+}
+
+.add-product img:hover {
+    filter: drop-shadow(1px 1px 3px rgba(2, 2, 2, 0.4));
+}
+
+.add-product h4 {
+    margin-top: 1.5rem;
+    color: #fff;
+}
+
+
+.containt-produts .card:hover {
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5);
+}
+
+.card img {
+    width: 45%;
+    height: auto;
+    margin: 1rem 0 3rem;
+    max-height: 65px;
+}
+
+.card h4 {
+    font-size: 1.3rem;
+    color: #03C4EB;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card button {
+    width: 60%;
+    height: auto;
+    font-size: .9rem !important;
+    padding: .7rem 1.1rem !important;
+    background: #03C4EB !important;
+    color: #fff !important;
+    margin: 7px;
+    transition: .3s;
+}
+
+.card button:hover {
+    background: #333 !important;
+    color: #fff !important;
+}
+
+
+/* FORMULARIO AGREGAR PRODUCTOS */
+.div-form {
+    z-index: -1;
+    visibility: hidden;
+    display: none;
+    opacity: 0;
+}
+
+.div-form.active {
+    visibility: visible;
+    opacity: 1;
+    position: fixed;
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    z-index: 999;
+    background-color: #161616ab;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.animated-entrada {
+    animation-name: entrada;
+    animation-duration: .5s;
+}
+
+.animated-salida {
+    animation-name: salida;
+    animation-duration: .5s;
+}
+
+.div-form form {
+    width: 35%;
+    height: auto;
+}
+
+.div-form form button[type="submit"] {
+    font-size: 1.2rem;
+    padding: .7rem 1.1rem;
+    background: #03C4EB;
+    color: #fff !important;
+    margin: 7px auto 2rem;
+    transition: .3s;
+}
+
+.div-form form a.close-form {
+    font-size: 1.5rem;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    background: #03C4EB;
+    color: #fff !important;
+    margin: 7px auto 2rem;
+    transition: .3s;
+    cursor: pointer;
+
+}
+
+
+
+.div-form form .label-option {
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
+
+.div-form form select {
+    font-size: 1.7rem;
+    outline-color: #03C4EB;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    padding: .5rem;
+}
+
+
+.div-form>form>.form>h1 {
+    margin: 3rem auto 4rem;
+    color: #03C4EB;
+    font-weight: 500;
+}
+
+.div-form>form>.form input:focus~label {
+    position: absolute;
+    font-size: 12px;
+    font-weight: 400;
+    color: #03C4EB;
+}
+
+.div-form>form>.form .barra::before {
+    background: #03C4EB;
+}
+
+
+/* FORM DELETE */
+.div-form-delete {
+    z-index: -1;
+    visibility: hidden;
+    display: none;
+    opacity: 0;
+}
+
+.div-form-delete.active {
+    visibility: visible;
+    opacity: 1;
+    position: fixed;
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    z-index: 999;
+    background-color: #161616ab;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div-form-delete form {
+    width: 35%;
+    height: auto;
+    padding: 3rem 0;
+}
+
+.div-form-delete form button[type="submit"] {
+    font-size: 1.2rem;
+    padding: .7rem 1.1rem;
+    background: #03C4EB;
+    color: #fff !important;
+    margin: 7px auto 2rem;
+    transition: .3s;
+}
+
+.div-form-delete form h4 {
+    text-align: center;
+}
+
+.div-form-delete form h4 span {
+    font-weight: 600;
+}
+
+
+.div-form-delete form .div-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.div-buttons button.cancel {
+    font-size: 1.2rem;
+    padding: .7rem 1.1rem;
+    background: #333;
+    color: #fff !important;
+    margin: 7px auto 2rem;
+    transition: .3s;
+}
+
+/* LIST PRODUCT*/
+.main .list-users {
+    width: 30%;
+    height: 58rem;
+    margin-bottom: 5rem;
+    max-height: 58rem;
+    overflow-y: auto;
+}
+
+.main .list-users::-webkit-scrollbar {
+    width: 12px;
+    /* Tamaño del scroll en vertical */
+    /* Tamaño del scroll en horizontal */
+
+}
+
+.main .list-users::-webkit-scrollbar-thumb {
+    background: #03C4EB;
+    border-radius: 4px;
+}
+
+.main .list-users::-webkit-scrollbar-thumb:hover {
+    background: #03C4EB;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Cambiamos el fondo cuando esté en active */
+.main .list-users::-webkit-scrollbar-thumb:active {
+    background-color: #03C4EB;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.main .list-users h2 {
+    color: #03C4EB;
+    font-weight: 500;
+    text-align: center;
+    margin: 1rem auto 1.5rem;
+}
+
+.list-users .contains-users {
+    width: 95%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 1rem 2.5%;
+}
+
+.contains-users .user {
+    width: 100%;
+    height: 5.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .3);
+    border-radius: 10px;
+    transition: .3s;
+    margin: .5rem;
+}
+
+.contains-users .user:hover {
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contains-users .user img {
+    width: 4rem;
+    height: auto;
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+
+.contains-users .user h5 {
+    margin-bottom: 0;
+    font-size: 1.7rem;
+}
+
+@keyframes entrada {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+
+    }
+}
+
+@keyframes salida {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+        display: none;
+        visibility: hidden;
+    }
+}

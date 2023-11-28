@@ -1,0 +1,172 @@
+<?php include 'includes/cabecera.php' ?>
+
+<?php include 'includes/nav-menu.php' ?>
+<?php require_once 'php/helpers.php'; ?>
+
+<div  id="formulario-restablecer-pass"  > 
+    <div class="container" > 
+
+
+    <div class="row">
+   
+
+
+
+
+        <!-- CAJA PRINCIPAL -->
+        <div id="principal">
+
+            <h1>Cambiar o Reestablecer contraseña </h1>
+
+            <?php if (isset($_SESSION['completado'])) : ?>
+                <div class="alerta alerta-exito">
+                    <?= $_SESSION['completado'] ?>
+                </div>
+            <?php elseif (isset($_SESSION['errores']['general'])) : ?>
+                <div class="alerta alerta-error">
+                    <?= $_SESSION['errores']['general'] ?>
+                </div>
+            <?php endif; ?>
+
+            <div id="for-envio-code" >
+
+            <form action="php/email-code.php" method="POST">
+              
+                 <p> Ingrese el correo de su cuenta para solicitar codigo de recuperacion </p>
+                <input type="email" name="email-code" required>
+
+                <button type="submit" class="   " value="Enviar"> Solicitar</button>
+               
+            </form>
+
+            </div>
+
+
+            <form action="/php/actualizar-pass.php" method="POST">
+
+                <?php
+
+                // si existe la session email_code y si no usa session usuario
+                $correo = '';
+                if (isset($_SESSION['email_code'])) :
+                    $correo = $_SESSION['email_code'];
+
+                elseif (isset($_SESSION['usuario'])) :
+                    $correo =$_SESSION['usuario']['email'];
+                endif;
+
+                ?>
+
+                <?php
+
+                // si existe la session email_code y si no usa session usuario
+                $codigo = '';
+                if (isset($_GET['codigo'])) :
+                    $codigo = $_GET['codigo'];
+
+                elseif (isset($_GET['codigo'])) :
+                    $codigo =NULL;
+                endif;
+
+                ?>
+
+
+
+                <div class="form">
+                    <h1>Cambiar contraseña </h1>
+
+
+
+                    <div class="grupo">
+                        <input type="email" name="email" id="" required value=" <?=$correo?>   "><span class="barra"></span>
+                        <label>Correo</label>
+                    </div>
+
+                    <div class="grupo">
+                        <input type="text" name="password_hash" id="" value="<?=$codigo?>"  required><span class="barra"></span>
+                        <label>Contraseña antigua o Codigo de verificacion</label>
+                    </div>
+                   
+
+
+
+                    <div class="grupo">
+                        <input type="password" name="password" id="" required><span class="barra"></span>
+                        <label>Nueva contraseña</label>
+                        
+
+                    </div>
+                    <div class="grupo">
+                        <input type="password" name="password2" id="" required><span class="barra"></span>
+                        <label>Confirmar contraeña</label>
+                    </div>
+                 
+
+
+
+
+
+                    <button type="submit" name="submit">Actualizar Datos</button>
+
+
+
+
+
+            </form>
+            <?php borrarErrores(); ?>
+
+
+
+        </div>
+        <!--fin principal-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php include 'includes/footer.php' ?>

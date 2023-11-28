@@ -1,0 +1,919 @@
+[29-Aug-2022 01:29:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 02:50:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 03:50:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 06:13:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 08:35:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 10:57:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 11:04:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 12:03:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 13:17:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 13:22:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 15:40:15 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/capacitaciones.php on line 13
+[29-Aug-2022 15:41:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 16:59:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 16:59:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 18:09:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 19:07:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 19:36:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 20:25:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 20:30:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 20:32:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 21:03:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 22:28:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 22:49:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 23:42:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[29-Aug-2022 23:57:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 00:39:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 01:12:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 01:45:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 02:56:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 03:32:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 05:58:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 07:55:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 08:19:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 10:42:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 11:55:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 13:02:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 14:29:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 15:13:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 15:14:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 15:26:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 15:50:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 17:51:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 19:03:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 19:05:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 19:06:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 19:57:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 19:57:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:15:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:43:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:43:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:43:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:45:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 20:46:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 22:34:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[30-Aug-2022 23:07:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 00:21:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 03:01:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 04:34:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 05:57:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 08:50:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 08:50:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 08:50:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 09:43:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 10:38:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 10:45:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 14:29:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 14:34:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 14:34:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 16:45:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/validar.php(3): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 16:45:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 16:46:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 17:16:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 17:32:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 19:33:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 19:33:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:22:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:23:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:28:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/adminBan.php(14): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:29:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:29:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/adminBan.php(14): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:29:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/adminBan.php(14): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:29:59 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/servicios.php on line 11
+[31-Aug-2022 20:37:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:40:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:40:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:41:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:49:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:54:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:56:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:56:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:56:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:56:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 20:57:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:01:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/mjsoluci/public_html/connect_db.php:3
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 3
+[31-Aug-2022 21:02:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/mjsoluci/public_html/connect_db.php:3
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 3
+[31-Aug-2022 21:02:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/mjsoluci/public_html/connect_db.php:3
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 3
+[31-Aug-2022 21:02:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:3
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 3
+[31-Aug-2022 21:02:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:04:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:04:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:18:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:26:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:26:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:27:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:27:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:30:35 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 21:30:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/mjsoluci/public_html/includes/slide.php:33
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(26): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/includes/slide.php on line 33
+[31-Aug-2022 21:31:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:34:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:36:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:39:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:40:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:41:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:41:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:41:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:42:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:43:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:47:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:47:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 21:47:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 22:13:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'MySQLi' not found in /home/mjsoluci/public_html/connect_db.php:4
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 4
+[31-Aug-2022 22:15:12 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 22:15:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[31-Aug-2022 22:16:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[31-Aug-2022 22:16:12 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 22:16:14 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 22:17:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[31-Aug-2022 22:17:21 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 22:18:20 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/servicios.php on line 11
+[31-Aug-2022 22:18:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[31-Aug-2022 22:18:26 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/servicios.php on line 11
+[31-Aug-2022 22:18:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[31-Aug-2022 22:19:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/admin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/admin.php on line 19
+[31-Aug-2022 22:26:52 America/Mexico_City] PHP Notice:  Undefined index: mail in /home/mjsoluci/public_html/validar.php on line 5
+[31-Aug-2022 22:26:52 America/Mexico_City] PHP Notice:  Undefined index: pass in /home/mjsoluci/public_html/validar.php on line 6
+[31-Aug-2022 22:26:55 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 22:35:23 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[31-Aug-2022 23:23:04 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/acerca.php on line 10
+[31-Aug-2022 23:23:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 00:22:06 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 00:34:35 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 02:49:28 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 03:35:39 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 05:39:39 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 09:38:03 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 09:52:13 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 10:02:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 10:03:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 10:59:04 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/acerca.php on line 10
+[01-Sep-2022 13:20:53 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:47:27 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:47:34 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:50:02 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:50:44 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:50:47 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:50:49 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:51:00 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:51:21 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 13:51:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 13:52:22 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/index.php on line 14
+[01-Sep-2022 14:03:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 14:07:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::mysqli_fetch_array() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 14:08:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting '(' in /home/mjsoluci/public_html/index.php on line 13
+[01-Sep-2022 14:08:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting '(' in /home/mjsoluci/public_html/index.php on line 13
+[01-Sep-2022 14:16:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 14:17:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 14
+[01-Sep-2022 14:18:21 America/Mexico_City] PHP Notice:  Undefined index: user in /home/mjsoluci/public_html/productos.php on line 20
+[01-Sep-2022 14:18:21 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/productos.php on line 29
+[01-Sep-2022 14:18:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 87
+[01-Sep-2022 14:38:34 America/Mexico_City] PHP Notice:  Undefined index: user in /home/mjsoluci/public_html/productos.php on line 20
+[01-Sep-2022 14:38:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 91
+[01-Sep-2022 14:39:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 92
+[01-Sep-2022 14:54:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 92
+[01-Sep-2022 14:55:04 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/servicios.php on line 11
+[01-Sep-2022 14:55:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/productos.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/productos.php on line 92
+[01-Sep-2022 14:55:10 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/capacitaciones.php on line 13
+[01-Sep-2022 14:55:12 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/acerca.php on line 10
+[01-Sep-2022 14:59:20 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/acerca.php on line 10
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 95
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 14:59:22 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 97
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 99
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 105
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 108
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined variable: i in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Undefined index:  in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:00:05 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/mjsoluci/public_html/productos.php on line 111
+[01-Sep-2022 15:01:42 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/servicios.php on line 11
+[01-Sep-2022 15:02:36 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/capacitaciones.php on line 13
+[01-Sep-2022 15:03:03 America/Mexico_City] PHP Notice:  Undefined index: rol in /home/mjsoluci/public_html/acerca.php on line 10
+[01-Sep-2022 15:03:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/admin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/admin.php on line 19
+[01-Sep-2022 15:04:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/admin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/admin.php on line 19
+[01-Sep-2022 15:10:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch_all() in /home/mjsoluci/public_html/admin.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mjsoluci/public_html/admin.php on line 20
+[01-Sep-2022 15:13:55 America/Mexico_City] PHP Notice:  Undefined variable: usuarios in /home/mjsoluci/public_html/admin.php on line 38
+[01-Sep-2022 15:13:55 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mjsoluci/public_html/admin.php on line 38
+[02-Sep-2022 12:25:38 America/Mexico_City] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[02-Sep-2022 12:25:38 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[02-Sep-2022 12:25:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7
+[10-Sep-2022 16:04:55 America/Mexico_City] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[10-Sep-2022 16:04:55 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[10-Sep-2022 16:04:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/mjsoluci/public_html/correo.php on line 4
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: email in /home/mjsoluci/public_html/correo.php on line 5
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: tel in /home/mjsoluci/public_html/correo.php on line 6
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: service in /home/mjsoluci/public_html/correo.php on line 7
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: mensaje in /home/mjsoluci/public_html/correo.php on line 8
+[10-Sep-2022 21:01:06 America/Mexico_City] PHP Notice:  Undefined index: mensaje in /home/mjsoluci/public_html/correo.php on line 24
+[19-Sep-2022 10:25:33 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[19-Sep-2022 10:25:34 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[19-Sep-2022 10:25:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7
+[04-Oct-2022 12:45:29 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[04-Oct-2022 12:45:32 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[04-Oct-2022 12:45:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/adminBan.php(14): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7
+[04-Oct-2022 12:45:37 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[04-Oct-2022 12:45:39 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[04-Oct-2022 12:45:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/adminBan.php(14): require()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7
+[04-Oct-2022 12:45:42 America/Mexico_City] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/mjsoluci/public_html/connect_db.php on line 4
+[04-Oct-2022 12:45:43 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mjsoluci/public_html/connect_db.php on line 5
+[04-Oct-2022 12:45:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/mjsoluci/public_html/connect_db.php:7
+Stack trace:
+#0 /home/mjsoluci/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/mjsoluci/public_html/connect_db.php on line 7

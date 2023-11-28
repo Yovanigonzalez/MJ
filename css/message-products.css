@@ -1,0 +1,35 @@
+.div-message-products {
+    width: 97%;
+    max-width: 1440px;
+    height: 80vh;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.div-message-products h1 {
+    width: 90%;
+    color: #434343;
+    font-weight: 600;
+    text-align: center;
+    margin: 2.5rem auto;
+}
+
+.div-message-products img {
+    width: 10%;
+    height: auto;
+    margin: 2rem;
+}
+
+.div-message-products a {
+    background-color: #03C4EB;
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 1rem 3rem;
+    border-radius: 10px;
+}

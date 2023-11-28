@@ -1,0 +1,133 @@
+#body-registro {
+    background: url(../img/bg-min.jpg) top center fixed;
+    background-size: cover;
+    color: #666666;
+    font-family: "Open Sans", sans-serif;
+  }
+
+
+
+.registro-cont form {
+width:40%;
+margin:5% auto;
+
+}
+
+
+
+.login-cont form {
+  width:40%;
+  margin:5% auto;
+
+  
+  }
+
+
+  
+#for-envio-code form {
+ 
+  box-shadow: none;
+
+
+  width:40%;
+  margin:5% auto;
+  padding:0%;
+
+  
+  }
+  #for-envio-code form p{
+    width:80%;
+    margin: 4px auto;
+    padding:0%;
+    background-color: #0F85BB;
+    color: aliceblue;
+    padding: 2%;
+    border-radius: 5px 10px;
+    -webkit-border-radius: 5px 10px;
+    -moz-border-radius: 5px 10px;
+    -ms-border-radius: 5px 10px;
+    -o-border-radius: 5px 10px;
+}  
+#for-envio-code form input {
+
+  width:80%;
+  margin: 2px auto;
+  padding:0%;
+  
+
+
+  
+  }
+
+  #for-envio-code form input:hover {
+
+    width:80%;
+    margin: 2px auto;
+    padding:0%;
+    
+    background-color: #93ec9bda;
+  
+    
+    }
+
+  #for-envio-code button  {
+    background:rgb(95, 128, 233);
+    width: 60px;
+    font-size:small;
+    padding: 0%;
+    
+    }
+  
+  
+  #formulario-restablecer-pass{
+    width: 100%;
+  }
+  
+
+.f01{
+    width:100%;
+}
+
+
+.alerta{
+  padding: 5px;
+  font-size: 14px;
+  color: white;
+  background: green;
+  box-shadow: 0px 1px 3px #ccc;
+  margin-bottom: 15px;
+  border-radius: 2px;
+}
+
+.alerta-error{
+  background: red;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+  .registro-cont form {
+    width:70%;
+  }
+  .login-cont form {
+    width:70%;
+  }
+}
+  
+
+
+
+
+@media screen and (max-width: 800px) {
+  .registro-cont form {
+    width:90%;
+  }
+  .login-cont form {
+    width:90%;
+  }
+}
+  
+
+
+
+
